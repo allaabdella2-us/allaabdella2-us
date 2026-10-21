@@ -2,9 +2,12 @@
 
 I build AI organizations, and I still build the AI.
 
-🔹 **Director, Generative AI at Molina Healthcare**: I lead a team of 30 that has put 5 AI products into production
+🔹 **Director, Generative AI at Molina Healthcare**: I lead a team of 30 that has put 5 AI products into production 
+
 🔹 **Previously at UST Global**: built an AI practice across three continents and invented CodeCrafter, an LLM code-modernization product
+
 🔹 **Adjunct Professor of Agentic AI** at the University of South Florida
+
 🔹 **PhD in Electrical Engineering** · 5 U.S. patents (2 granted, 3 pending)
 
 ## What I'm building
